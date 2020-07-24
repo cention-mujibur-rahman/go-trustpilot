@@ -1,5 +1,5 @@
 # go-trustpilot
-trustpilot client api
+trustpilot client api for golang
 
 ## API documentation ##
 https://developers.trustpilot.com/
